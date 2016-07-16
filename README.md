@@ -1,2 +1,2 @@
-# sudokuchecker
-This small file with sudoku checker process in very easy manner 
+# Sudoku checker
+This small file with sudoku checker process in very easy manner by PHP.
